@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.PrestoGourmet" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#263B2B</item>
+        <item name="android:navigationBarColor">#263B2B</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
